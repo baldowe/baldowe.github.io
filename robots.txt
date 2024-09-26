@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://baldowe.github.io/sitemap.baldowe.gz
+Sitemap: https://baldowe.github.io/app/sitemap.baldowe.gz
+Sitemap: https://baldowe.github.io/assets/sitemap.baldowe.gz
+Sitemap: https://baldowe.github.io/css/sitemap.baldowe.gz
+Sitemap: https://baldowe.github.io/data/sitemap.baldowe.gz
+Sitemap: https://baldowe.github.io/includes/sitemap.baldowe.gz
+Sitemap: https://baldowe.github.io/item/sitemap.baldowe.gz
+Sitemap: https://baldowe.github.io/src/sitemap.baldowe.gz
